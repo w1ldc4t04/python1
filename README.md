@@ -19,6 +19,7 @@ def func1():
 [0, 1, 8, 27, 64, 125, 216, 343, 512, 729]
 ```
 ![image](https://github.com/w1ldc4t04/python1/blob/main/01.png)
+
 第二題
 2. 輸出元素為0-9中偶數的三次方的列表
 ```
