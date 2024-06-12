@@ -31,3 +31,17 @@ def func2():
 2
 [0, 8, 64, 216, 512]
 ```
+![image](https://github.com/w1ldc4t04/python1/blob/main/02.png)
+
+第三題
+3. 輸出元素為元組的列表,元組中元素依次是0-9中的奇數和該數的三次方
+```
+def func3():
+    print([(x,x**3) for x in range(10) if x%2])
+```
+結果
+```
+3
+[(1, 1), (3, 27), (5, 125), (7, 343), (9, 729)]
+```
+![image](https://github.com/w1ldc4t04/python1/blob/main/03.png)
