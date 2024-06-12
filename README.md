@@ -62,3 +62,4 @@ def func4():
 ```
 ![image](https://github.com/w1ldc4t04/python1/blob/main/04.png)
 # 實作
+![image]([https://github.com/w1ldc4t04/python1/blob/main/all.png)
