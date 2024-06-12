@@ -21,6 +21,7 @@ def func1():
 ![image](https://github.com/w1ldc4t04/python1/blob/main/01.png)
 
 第二題
+
 2. 輸出元素為0-9中偶數的三次方的列表
 ```
 def func2():
@@ -34,6 +35,7 @@ def func2():
 ![image](https://github.com/w1ldc4t04/python1/blob/main/02.png)
 
 第三題
+
 3. 輸出元素為元組的列表,元組中元素依次是0-9中的奇數和該數的三次方
 ```
 def func3():
@@ -45,3 +47,18 @@ def func3():
 [(1, 1), (3, 27), (5, 125), (7, 343), (9, 729)]
 ```
 ![image](https://github.com/w1ldc4t04/python1/blob/main/03.png)
+
+第四題
+
+4. 將列表ls中每個元素首字母轉為大寫,輸出新列表
+``` 
+def func4():
+    print([s.capitalize() for s in ls])
+```
+結果
+```
+4
+['The lord of the rings', 'Anaconda', 'Legally blonde', 'Gone with the wind']
+```
+![image](https://github.com/w1ldc4t04/python1/blob/main/04.png)
+# 實作
