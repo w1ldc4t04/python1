@@ -13,3 +13,20 @@
 def func1():
     print([x**3 for x in range(10)])
 ```
+結果
+```
+1
+[0, 1, 8, 27, 64, 125, 216, 343, 512, 729]
+```
+![image](https://github.com/w1ldc4t04/python1/blob/main/01.png)
+第二題
+2. 輸出元素為0-9中偶數的三次方的列表
+```
+def func2():
+    print([x**3 for x in range(10) if x%2==0])
+```
+結果
+```
+2
+[0, 8, 64, 216, 512]
+```
